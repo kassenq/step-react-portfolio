@@ -4,7 +4,7 @@ export class Home extends Component {
   render() {
     return (
       <div>
-        Home page
+        <h2>Kassen Qian</h2>
       </div>
     )
   }
